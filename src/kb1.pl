@@ -1,0 +1,9 @@
+woman(mia).
+woman(jody).
+woman(yolander).
+man(yusuf).
+man(jun_lin).
+playsAirGuitar(jody).
+lectures(jun_lin).
+party.
+student(yusuf).
